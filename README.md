@@ -15,7 +15,7 @@ A simple project that takes a word and changes it
 ## Setup/Installation Requirements
 
 * open git bash or another terminal application
-* run the command "git clonehttps://github.com/bobcat673/cyphier.git
+* run the command "git clone https://github.com/bobcat673/cyphier.git
 * open index.html
 
 ## Known Bugs
